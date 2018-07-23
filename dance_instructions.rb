@@ -7,7 +7,7 @@ puts "raise right hand"
 puts "raise right hand"
 end
 the_dance1
-
-  
+the_dance1
+the_dance1
   
  
