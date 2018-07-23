@@ -1,5 +1,6 @@
 
 # Code your methods below
+
 puts left foot
 puts right foot
 puts raise right hand
