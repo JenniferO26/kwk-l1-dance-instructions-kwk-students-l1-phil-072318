@@ -37,7 +37,7 @@ Base Footwork
 3. Finishing with a **small skip-step** backward
 def the_dance1
 def the_dance1
-
+def the_dance1
 
 ### **Skip-Step**
 
