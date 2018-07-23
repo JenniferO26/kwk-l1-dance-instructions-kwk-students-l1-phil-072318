@@ -35,8 +35,8 @@ Base Footwork
 2. Return right foot to the ground
 
 3. Finishing with a **small skip-step** backward
-def the_dance1
 
+def the_dance1
 
 
 ### **Skip-Step**
